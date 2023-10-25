@@ -1,0 +1,8 @@
+Difference between document and window objects?
+	(i).Purpose: The Document object is primarily concerned with the content and structure of the web page, while the Window object is focused on managing the browser and its environment.
+
+	(ii).Location: The Document object is at the root of the DOM tree, representing the content, whereas the Window object is more about the browser's window or tab.
+
+	(iii).Methods and Properties: Document object methods and properties are related to HTML elements and content, whereas Window object methods and properties relate to browser actions, navigation, and timing.
+
+	(iv).Content vs. Browser: You use the Document object to interact with and modify the webpage's content, while the Window object helps control browser-specific functionalities.
